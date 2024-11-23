@@ -24,7 +24,7 @@ Build from Source
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/Electro-Robo-Gaming/Online_IDE.git
+git clone https://github.com/Electro-Robo-Gaming/Online-IDE.git
 Open the project in Qt Creator or Visual Studio with the Qt plugin.
 Build and run the project:
 bash
